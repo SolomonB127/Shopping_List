@@ -18,8 +18,6 @@ This app demonstrates clean architecture, Firebase Realtime Database integration
 
 ## Screenshots
 
-> _Add your screenshots here!_
-
 | Home Screen | Add Item | Swipe to Delete |
 |-------------|----------|----------------|
 | ![Home](/assets/screenshots/home.png) | ![Add](/assets/screenshots/add.png) | ![Delete](/assets/screenshots/delete.png) |
