@@ -22,14 +22,14 @@ This app demonstrates clean architecture, Firebase Realtime Database integration
 
 | Home Screen | Add Item | Swipe to Delete |
 |-------------|----------|----------------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Delete](screenshots/delete.png) |
+| ![Home](/assets/screenshots/home.png) | ![Add](/assets/screenshots/add.png) | ![Delete](/assets/screenshots/delete.png) |
 
 ---
 
 ## Demo
 
 Try the app live on [Appetize.io](https://appetize.io/)  
-> _Replace this link with your actual Appetize demo URL._
+<!-- > _Replace this link with your actual Appetize demo URL._ -->
 
 ---
 
@@ -142,7 +142,7 @@ class _NewItemState extends State<NewItem> {
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/shopping_list_flutter.git
+   git clone https://github.com/SolomonB127/Shopping_List.git
    cd shopping_list_flutter
    ```
 
