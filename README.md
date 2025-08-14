@@ -26,8 +26,7 @@ This app demonstrates clean architecture, Firebase Realtime Database integration
 
 ## Demo
 
-Try the app live on [Appetize.io](https://appetize.io/)  
-<!-- > _Replace this link with your actual Appetize demo URL._ -->
+Try the app live on [Appetize.io](https://appetize.io/app/b_ptxtg5lumghznwuyzny2wu7a3e)  
 
 ---
 
